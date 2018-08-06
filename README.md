@@ -1,6 +1,6 @@
 # Typescaler-react
 
-Create a custom type scale for you website or app, in the same vein as [https://type-scale.com/](https://type-scale.com/).
+Create a custom type scale for you website or app, in the same vein as [https://type-scale.com/](https://type-scale.com/). Demo at [https://allen-garvey.github.io/typescaler-react](https://allen-garvey.github.io/typescaler-react).
 
 ## Create React App Overview
 
